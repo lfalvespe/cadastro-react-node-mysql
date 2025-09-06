@@ -22,6 +22,3 @@
     $ npm start
 ```
 
-<div align="center">
-    <img src="cadastro-node-react-mysql.png">
-</div>
