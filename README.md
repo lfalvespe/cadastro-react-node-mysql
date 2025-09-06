@@ -1,4 +1,4 @@
-# Cadastro de usuários com <span style='color:yellow;'>React, Node e MySQL</span>
+# Cadastro de usuários com <span><mark>React, Node e MySQL</mark></span>
 
 <br />
 
