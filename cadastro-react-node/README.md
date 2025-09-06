@@ -1,4 +1,13 @@
-# Cadastro React + Node Js
+# Frontend Cadastro de usuários com React e Node
 
-Sistema de cadastro de usuários - CRUD Node + MySQL using Sequelize
+## Configurando o projeto:
 
+```diff
+    $ npm install
+```
+
+## Rodando o projeto:
+
+```diff
+    $ npm run dev
+```

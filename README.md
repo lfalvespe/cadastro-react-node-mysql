@@ -4,6 +4,11 @@
 
 <a href='https://cadastro-react-node.vercel.app/' target='new'>https://cadastro-react-node.vercel.app/</a>
 
+## Instruções para rodar o projeto nos arquivos Readme das pastas:
+
+- cadastro-node-mysql (Backend)
+- cadastro-react-node (Frontend)
+
 ## Frontend
 
 - React
