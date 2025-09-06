@@ -2,7 +2,7 @@
 
 <br />
 
-<a href='https://cadastro-react-node.vercel.app/' target='_blank'>https://cadastro-react-node.vercel.app/</a>
+<a href='https://cadastro-react-node.vercel.app/' target='new'>https://cadastro-react-node.vercel.app/</a>
 
 ## Frontend
 
@@ -25,9 +25,9 @@
 ## Deploy Frontend e Backend
 
 - Vercel
-<a href="https://vercel.com" target='_blank'>https://vercel.com</a>
+<a href="https://vercel.com" target='new'>https://vercel.com</a>
 
 ## Deploy Database
 - Aiven
-<a href="https://aiven.io" target='_blank'>https://aiven.io</a>
+<a href="https://aiven.io" target='new'>https://aiven.io</a>
 
