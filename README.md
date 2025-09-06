@@ -1,4 +1,4 @@
-# Cadastro de usuários com <span><mark>React, Node e MySQL</mark></span>
+# Cadastro de usuários com ```diff ! React, Node e MySQL```
 
 <br />
 
