@@ -24,3 +24,6 @@ pids/
 # Environment variables
 .env*
 .vercel
+
+# ssl keys
+.pem
