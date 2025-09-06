@@ -1,4 +1,4 @@
-# Backend Cadastro de usuários coom Node e Mysql
+# Backend Cadastro de usuários com Node e Mysql
 
 ## Configurando o projeto:
 
@@ -6,7 +6,7 @@
     $ npm install
 ```
 
-## Criar um arquivo .env com os dados do banco
+## Criar um arquivo .env na raiz com os dados do banco
 
 ```diff
     DB_DATABASE = "NOME_DO_BANCO"
