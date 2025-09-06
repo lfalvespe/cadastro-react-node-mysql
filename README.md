@@ -1,8 +1,4 @@
-# Cadastro de usuários com 
-
-```diff 
-    # React, Node e MySQL
-```
+# Cadastro de usuários com React, Node e MySQL
 
 <br />
 
